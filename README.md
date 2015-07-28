@@ -1,4 +1,3 @@
-[![axisj-contributed](http://cdn.axisj.com/axisj/ui/axisj-contributed.svg)](https://github.com/axisj)
 
 Spring-Boot based Amazon Simple Storage Service(S3) API Sample
 =======
